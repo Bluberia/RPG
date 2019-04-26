@@ -1,0 +1,15 @@
+*~
+\#*\#
+*.o
+*.gcno
+*.a
+*.out
+test
+vscode
+.vscode
+my_rpg
+debug
+*.gcda
+*.gcno
+garden_rand.png
+fight_test
